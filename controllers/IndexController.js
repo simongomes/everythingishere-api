@@ -3,7 +3,7 @@ const { API_ENDPOINT } = require('../config/constants');
 
 exports.index = (req, res, next) => {
   res.json(
-    'Welcome to Everything is here API. It provides necessery data for https://everythingishere.info'
+    'Welcome to Everything is here API. It provides necessery data for https://everythingishere.top'
   );
 };
 
